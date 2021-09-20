@@ -1,3 +1,3 @@
 # spring-web-mvc-Dio
 
-Uma aplicação simples seguindo o passos do professor para constante pratica!
+Uma aplicação simples seguindo o passos do professor!
